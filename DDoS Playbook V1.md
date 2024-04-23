@@ -1,4 +1,4 @@
-## Incident Response Steps: DDoS Attack PLAYBOOK POD 22
+## Incident Response Steps: DDoS Attack PLAYBOOK VAULT 22
 
 ### Step 1: Identify the Attack
 - **Verification**:
